@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import quotes from './json/quotes.json'
 import './App.css'
-import Quote from './components/quote'
+import Quote from './components/Quote'
 
 const arrayColors = ['#504903', '#C1C249', '#CC299E', '#A9992F', '#CEE3EF', '#3D617E', '#1FFD9D', '#12D0C0', '#6DA27B', '#0CC4EB', '#8755F3', '#37D10B', '#8B3569', '#187DEE', '#BA3717', '#5EFFED', '#5E0202', '#F81975', '#E7013D', '#EA41EC', '#653681', '#89524A', '#41E3D6', '#E91B4E', '#3F29DB', '#ADD29A', '#8A81E4', '#71B9E6', '#9E578D', '#7FC4FD', '#087ED9', '#71FCC0', '#964F90', '#1F5351' , '#D7B764', '#7383B8', '#66D3D4', '#2607BC', '#D2915D', '#4F94FE', '#94C8DA', '#603172', '#6DDCC0', '#F56698', '#EAFE4E', '#02ABC5']
 
